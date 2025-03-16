@@ -61,13 +61,13 @@ The application provides a clean, intuitive interface with both light and dark m
 <div align="center">
 
 ### Timer View (Dark Mode)
-![Timer Dark Mode](https://via.placeholder.com/800x450?text=Timer+Dark+Mode)
+![Timer Dark Mode](https://raw.githubusercontent.com/antoine-marchal/2025-TimeTracker/refs/heads/main/screenshots/%7B32BF0B1C-6FC2-409A-80E2-BF6303CF7C3E%7D.png)
 
 ### Statistics View (Light Mode)
-![Statistics Light Mode](https://via.placeholder.com/800x450?text=Statistics+Light+Mode)
+![Statistics Light Mode](https://raw.githubusercontent.com/antoine-marchal/2025-TimeTracker/refs/heads/main/screenshots/%7B307DE2C2-139F-45F0-A763-BD8A13AC9EB2%7D.png)
 
 ### Settings View
-![Settings](https://via.placeholder.com/800x450?text=Settings+View)
+![Settings](https://raw.githubusercontent.com/antoine-marchal/2025-TimeTracker/refs/heads/main/screenshots/%7B3645041D-F197-4262-AA2C-8D75F4C1ACB1%7D.png)
 
 </div>
 
@@ -82,7 +82,7 @@ The application provides a clean, intuitive interface with both light and dark m
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/time-tracker.git
+   git clone https://github.com/antoine-marchal/2025-TimeTracker.git
    cd time-tracker
    ```
 
